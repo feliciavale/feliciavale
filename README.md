@@ -1,4 +1,4 @@
-![Header](github-header-banner%20(7).png)
+![Header](<github-header-banner%20(7).png>)
 
 ## About Me:
 
@@ -74,11 +74,11 @@ Undergraduate Computer Science Major @BINUS
 
 [![](https://visitcount.itsvg.in/api?id=feliciavale&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- ###
+###
 
 <img src="https://raw.githubusercontent.com/feliciavale/feliciavale/output/snake.svg" alt="Snake animation" />
 
-### -->
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
