@@ -1,7 +1,8 @@
 ![Header](github-header-banner.png)
 
 ## About Me:
-Undergraduate Computer Science Major @BINUS 
+
+Undergraduate Computer Science Major @BINUS
 
 ## Socials:
 
@@ -50,7 +51,6 @@ Undergraduate Computer Science Major @BINUS
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-
 
 # 📊 GitHub Stats:
 
