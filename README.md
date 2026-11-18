@@ -6,7 +6,7 @@ Undergraduate Computer Science Major @BINUS
 
 ## Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/feliiciavalerin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliciavalerin/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:felicia300606@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-C8A27A.svg?logo=Instagram&logoColor=white)](https://instagram.com/feliiciavalerin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-A67C52.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feliciavalerin/) [![email](https://img.shields.io/badge/Email-8B6B4A?logo=gmail&logoColor=white)](mailto:felicia300606@gmail.com)
 
 ###
 
@@ -54,21 +54,21 @@ Undergraduate Computer Science Major @BINUS
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=feliciavale&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=feliciavale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciavale&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=feliciavale&bg_color=FFFDF8&title_color=8B6B4A&text_color=5C4A3A&icon_color=C8A27A&border_color=E8DCC4&show_icons=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=feliciavale&background=FFFDF8&border=E8DCC4&stroke=E8DCC4&ring=C8A27A&fire=D4A373&currStreakNum=8B6B4A&sideNums=8B6B4A&currStreakLabel=A67C52&sideLabels=A67C52&dates=8C7B6B)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciavale&bg_color=FFFDF8&title_color=8B6B4A&text_color=5C4A3A&border_color=E8DCC4&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=feliciavale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=feliciavale&theme=flat&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=feliciavale&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=feliciavale&limit=5&bg_color=FFFDF8&title_color=8B6B4A&text_color=5C4A3A&icon_color=C8A27A&border_color=E8DCC4&combine_all_yearly_contributions=true)
 
 ---
 
@@ -81,17 +81,3 @@ Undergraduate Computer Science Major @BINUS
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**feliciavale/feliciavale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
