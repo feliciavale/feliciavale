@@ -1,4 +1,4 @@
-![Header](<github-header-banner%20(7).png>)
+![Header](<github-header-banner%20(7).png.webp>)
 
 ## About Me:
 
