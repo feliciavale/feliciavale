@@ -58,10 +58,6 @@ Undergraduate Computer Science Major @BINUS
 ![](https://nirzak-streak-stats.vercel.app/?user=feliciavale&background=FFFDF8&border=E8DCC4&stroke=E8DCC4&ring=C8A27A&fire=D4A373&currStreakNum=8B6B4A&sideNums=8B6B4A&currStreakLabel=A67C52&sideLabels=A67C52&dates=8C7B6B)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciavale&bg_color=FFFDF8&title_color=8B6B4A&text_color=5C4A3A&border_color=E8DCC4&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=feliciavale&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
